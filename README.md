@@ -1,4 +1,6 @@
 # What is this?
+
+[![Join the chat at https://gitter.im/Remos/Borderless-Gaming](https://badges.gitter.im/Remos/Borderless-Gaming.svg)](https://gitter.im/Remos/Borderless-Gaming?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Borderless Gaming is a simple tool that will allow you to turn your windowed video games into "fullscreen" applications without all of the negative side effects
 
 The project is open source under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Codeusa/Borderless-Gaming/blob/master/LICENSE).
